@@ -1,4 +1,4 @@
-# <img src="https://image.flaticon.com/icons/svg/235/235111.svg" width="64" /> ElfCommerce
+# <img src="https://image.flaticon.com/icons/svg/235/235111.svg" width="64" /> Desi Cart
 
 <p>
   <img src="https://img.shields.io/badge/React-16.8.+-lightblue.svg">
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/MySQL-5.7.+-blue.svg">
 </p>
 
-ElfCommerce is an open source ecommerce dashboard written in ReactJS + ExpressJS and curretly under active development. The goal of this project is to provide a data-driven backoffice solution for SMEs. It will allow yout to manage your inventory, orders, supply chain, shipments, payments and everything else in one place with intuitive UI.
+Desi Cart is an open source ecommerce dashboard written in ReactJS + ExpressJS and curretly under active development. The goal of this project is to provide a data-driven backoffice solution for SMEs. It will allow yout to manage your inventory, orders, supply chain, shipments, payments and everything else in one place with intuitive UI.
 
 
 ## Demo account
@@ -188,10 +188,4 @@ to make sure all formatting or other issues have been properly fixed.
 
 ...
 
-## About the logo
 
-Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0)
-
-## License
-
-Elf Commerce is [Apache-2.0 licensed.](https://github.com/ccwukong/elfcommerce/blob/master/LICENSE)
